@@ -11,6 +11,7 @@ Agradeço a Deus, a TQI e a DIO por mais essa atividade concluída.
 
 ## :computer: Sobre a Atividade
 **Dark Mode / Light Mode**
+
 Esta atividade consiste em criar uma página com esse efeito de Dark ou Light Mode; essa escolha é realizada com um clique em um botão.
 
 - [✔️] 1. Crie uma estrutura básica de projeto front-end (HTML, CSS e JS).
